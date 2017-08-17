@@ -1,0 +1,8 @@
+ShareMyLocation check in please
+ShareMyLocation to check in please
+ShareMyLocation check in
+ShareMyLocation to check in
+PostMyLocation I am at {Number}
+PostMyLocation I am at number {Number}
+PostMyLocation present at {Number}
+PostMyLocation present at number {Number}

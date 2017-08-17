@@ -1,0 +1,34 @@
+{
+    "intents": [
+        {
+            "intent": "AMAZON.HelpIntent"
+        },
+        {
+            "intent": "AMAZON.StopIntent"
+        },
+        {
+            "intent": "AMAZON.CancelIntent"
+        },
+        {
+          "intent": "ShareMyLocation"
+        },
+        {
+            "slots": [
+                {
+                    "name": "Number",
+                    "type": "AMAZON.NUMBER"
+                }
+            ],
+            "intent": "PostMyLocation"
+        },
+        {
+            "slots": [
+                {
+                    "name": "postText",
+                    "type": "AMAZON.LITERAL"
+                }
+            ],
+            "intent": "writePostIntent"
+        }
+    ]
+}
